@@ -13,6 +13,7 @@ Zapper.Fiからダウンロードしたcsvデータを整理する。 exeとDLL�
 ##commandline
 
 ZapperTo.exe exchange file_name
+
 ex) ZapperTo.exe D:\generatedBy_1234_react-csv.csv
 
 zapper.fiのサイト-->https://zapper.fi/
