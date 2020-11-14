@@ -21,5 +21,7 @@ zapper.fiのサイト-->https://zapper.fi/
 ##file lists
 
 ZapperTo.exe : binary file
+
 Newtonsoft.Json.dll : DLL file for Json
+
 Module1.vb : Visual basic source file
