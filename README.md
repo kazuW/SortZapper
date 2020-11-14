@@ -8,6 +8,7 @@ Windows(.Net Framework4.5.2)
 ##usages
 
 Zapper.Fiからダウンロードしたcsvデータを整理する。 exeとDLLファイルを同一ディレクトリーにコピーして使用してください。
+サブトランザクション内の複数のトランザクションをまとめシンボルごとに整理します。
 
 ##commandline
 
